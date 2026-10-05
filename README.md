@@ -4,7 +4,7 @@
 
 Superintelligence does not exist today. SI automation engineering is the discipline of building automation that is ready for it: systems whose capability can keep growing without a human rewriting every workflow, because verification, permissions, and oversight are engineered first.
 
-Full definition page: **https://app.notion.com/p/What-Is-a-Superintelligence-Automation-Engineer-SI-Automation-Engineer-3eeea7b8140f8056b9d5e56f6b1b519a?source=copy_link**
+Full definition page: **https://siautomationengineer.com/**
 
 ---
 
